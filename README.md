@@ -6,4 +6,4 @@ This is a sub-organization of the [MTN Media Group Dev Team](https://github.com/
 
 - API:          No Releases yet (In Development)
 - Discord-Bot:  No Releases yet (In Development)
-- Plugin:       Relase 1.0
+- Plugin:       Release 1.0
